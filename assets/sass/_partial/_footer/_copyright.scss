@@ -21,4 +21,11 @@
       margin: 4px;
     }
   }
+  .icp {
+    display: block;
+    
+    .icp-link {
+      color: $theme-color;
+    }
+  }
 }
